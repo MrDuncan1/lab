@@ -1,3 +1,3 @@
-# lab
-Lab
-ПРОГА ГОВНО
+# Lab
+-Hello there!
+-General Kenobi
